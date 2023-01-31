@@ -9,6 +9,7 @@
 
 - 📫 How to reach me **bartlomiej.fr1@gmail.com**
 
+
 <p align="left">
 </p>
 
