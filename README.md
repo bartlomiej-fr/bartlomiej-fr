@@ -5,10 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bartlomiej-fr&label=Profile%20views&color=0e75b6&style=flat" alt="bartlomiej-fr" /> </p>
 
-- 🌱 I’m currently learning **React Redux, Typescript**
+<h3>!Important</h3>
+
+- 🌱 I am currently looking for a job or internship as a frontend developer to develop my programming skills, 
+so if you want to check me out, please contact me. I am willing to learn new technologies, even on my own. 
+I am currently learning **React Redux and Typescript**. Soon there will be more projects on my account so stay tuned 😉
 
 - 📫 How to reach me **bartlomiej.fr1@gmail.com**
-
 
 <p align="left">
 </p>
